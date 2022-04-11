@@ -11,7 +11,7 @@ Here I share the Python scripts I've wrote to use the [OT-2 Open Source Pipettin
 
  * The list of protocols you can find is:
    *  ELISA test
-   *  Nucleic acids extraction
+   *  Total Nucleic Acids (TNA) extraction
    *  PCR
    *  qPCR 
    *  RT
